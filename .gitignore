@@ -1,0 +1,11 @@
+__*/
+__*.txt
+build/
+dist/
+.vscode/
+.settings/
+.idea/
+
+*.pyc
+*.pyo
+*.bak
