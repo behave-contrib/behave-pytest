@@ -2,7 +2,7 @@ behave-pytest (reborn)
 =============================================================================
 
 :FORKED-FROM: https://github.com/ribozz/behave-pytest.git
-:State: Currently broken, works no longer w/ currenty pytest
+:State: Currently broken, works no longer w/ current pytest version.
 
 Small utility package to integrate `pytest`_ asserts into `behave`_ project.
 
